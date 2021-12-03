@@ -1,4 +1,4 @@
-# **Advent of Code 2020**
+# **Advent of Code 2021**
 
 My solutions for Advent of Code 2021 in Python.
 I try to write solutions as elegant, readable and Pythonic as I can.
